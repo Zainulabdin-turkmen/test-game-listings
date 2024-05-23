@@ -5,5 +5,9 @@ body {
 .container {
     margin-top: 135px;
     margin-left: 134px;
+}
+
+.container-1 p {
+    color: #697E90;
     
 }
