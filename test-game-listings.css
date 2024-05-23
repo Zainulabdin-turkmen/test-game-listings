@@ -5,10 +5,14 @@ body {
 .container {
     margin-top: 135px;
     margin-left: 134px;
+    margin-right: 134px;
+    
 }
 
 .container-1 {
     display: flex;
+    justify-content: space-between;
+    margin-top: 169px;
 }
 
 .container-1 p {
