@@ -1,0 +1,17 @@
+body {
+    background-color: #E2f1ff;
+}
+
+.container-1 {
+    background-color: chocolate;
+    width: 540px;
+    height: 212px;
+    margin-top: 135px;
+    margin-left: 134px;
+}
+
+.container-2 {
+    background-color: red;
+    width: 405px;
+    height: 137px;
+}
