@@ -7,6 +7,10 @@ body {
     margin-left: 134px;
 }
 
+.container-1 {
+    display: flex;
+}
+
 .container-1 p {
     color: #697E90;
     font-size: 13px;
