@@ -9,5 +9,6 @@ body {
 
 .container-1 p {
     color: #697E90;
-    
+    font-size: 13px;
+    font-weight: bold;
 }
