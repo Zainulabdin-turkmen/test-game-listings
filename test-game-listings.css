@@ -2,6 +2,9 @@ body {
     background-color: #E2f1ff;
 }
 
+.header {
+    background-color: cadetblue;
+}
 .container-2 {
     background-color: #E2f1ff;
     width: 540px;
