@@ -17,8 +17,7 @@ body {
     background-color: #E2f1ff;
     width: 540px;
     height: 180px;
-    margin-left: 38px;
-    /* margin-right: 5px; */
+    /* margin-left: 38px; */
     display: flex;
     justify-content: space-between;
     border-radius: 10px;
