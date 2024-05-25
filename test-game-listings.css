@@ -9,3 +9,7 @@ body {
     margin-top: 135px;
     margin-left: 134px;
 }
+
+.container-2 p {
+    font-size: 10px;
+}
