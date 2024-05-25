@@ -22,3 +22,7 @@ body {
 .container-2 h1 {
     font-size: 24px;
 }
+
+.div-3 h1 {
+    font-weight: 400    ;
+}
