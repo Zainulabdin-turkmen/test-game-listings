@@ -11,6 +11,8 @@ body {
     padding-left: 35px;
     padding-right: 100px;
     display: inline-block;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
 }
 .container-2 {
     background-color: #E2f1ff;
@@ -18,8 +20,7 @@ body {
     height: 180px;
     display: flex;
     justify-content: space-between;
-    border-radius: 10px;
-    box-shadow: 0 0 10px black;
+
 }
 
 .container-2 p {
