@@ -8,6 +8,7 @@ body {
     height: 212px;
     margin-top: 135px;
     margin-left: 134px;
+    display: flex;
 }
 
 .container-2 p {
