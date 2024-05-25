@@ -9,10 +9,10 @@ body {
     margin-top: 135px;
     margin-left: 134px;
     display: flex;
+    justify-content: space-between;
 }
 
 .container-2 p {
     font-size: 13px;
     color: #697E90;
-    
 }
